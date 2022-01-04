@@ -1,4 +1,4 @@
-[![MasterHead](https://im7.ezgif.com/tmp/ezgif-7-24bb8272cb.gif)](https://rishavchanda.io)
+[![MasterHead](https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://rishavchanda.io)
 
 <h1 align="center">Assalamulikum 🤝, I'm Humayun from Creative Coder</h1>
 <h3 align="center">A professional Full Stack developer from India</h3>
