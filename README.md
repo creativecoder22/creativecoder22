@@ -11,7 +11,7 @@
 
 🟡 📖 I’m currently learning: **MERN STACK Development and Next Level Graphic design**
 
-🔴 📧 How to reach me nad contacts me:  **info.creativecoder@gmail.com**
+🔴 📧 How to contacts me:  **info.creativecoder@gmail.com**
 
 🔵 Whatsapp: *+91 8637538714*
 
